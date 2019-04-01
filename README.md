@@ -5,7 +5,9 @@
 
 -->
 
-By [Author name](author URL goes here).
+# Portfolio
+
+By Baraffe Robin (https://twitter.com/RobinBaraffe).
 
 [![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
 
@@ -71,9 +73,7 @@ send us a pull request.
 
 ## Authors
 
-* Your Name (Your Github URL goes here)
-* Additional Author's name (Their Github URL goes here)
-
+* Baraffe Robin (https://github.com/Thyrael)
 
 ## Contributing
 
@@ -82,7 +82,6 @@ send us a pull request.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-
 
 ## License
 
