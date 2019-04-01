@@ -5,8 +5,6 @@
 
 -->
 
-# Portfolio
-
 By Baraffe Robin (https://twitter.com/RobinBaraffe).
 
 [![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
